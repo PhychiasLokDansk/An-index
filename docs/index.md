@@ -1,11 +1,48 @@
-# Obsidian Notes
+---
+title: Configuration
+share: "true"
+---
+<header>
 
-Publish your public notes with MkDocs
+<!--
+  <<< Author notes: Course header >>>
+  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
+  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
+  Add your open source license, GitHub uses MIT license.
+-->
 
-## Hello World!
+# AN INDEX
 
-The `index.md` in the `/docs` folder is the homepage you see here.
+</header>
 
-The folders in `/docs` appear as the main sections on the navigation bar.
+<!--
+  <<< Author notes: Step 1 >>>
+  Choose 3-5 steps for your course.
+  The first step is always the hardest, so pick something easy!
+  Link to docs. github. com for further explanations.
+  Encourage users to open new tabs for steps!
+-->
 
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
+## INTRO
+
+Welcome to _An index for Conlan_
+
+This is a website alpha version for recording some Conlan, created by a bunch of students in Linguistic. 
+
+## CONTENT
+
+1. An index for conlan
+2. Interesting world create content and fantastic imaginational creatures.
+
+<footer>
+
+<!--
+  <<< Author notes: Footer >>>
+  Add a link to get support, GitHub status page, code of conduct, license link.
+-->
+
+---
+
+&copy; This Website is constructed by Phychias Lok, Phychiaslok@gmail.com. The copyrights of the conlan that's not created by Phychias is owned by its creator. &copy;
+
+</footer>
